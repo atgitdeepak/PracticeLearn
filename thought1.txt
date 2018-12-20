@@ -5,6 +5,7 @@ Indigo
 Blue  # blue is the color of the sky
 Green
 Yellow
+brown
 Orange
 Red
 Unicorn
