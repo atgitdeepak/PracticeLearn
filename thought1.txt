@@ -1,6 +1,6 @@
 Violet
 Indigo
-Blue
+Blue  # blue is the color of the sky
 Green
 Yellow
 Orange
