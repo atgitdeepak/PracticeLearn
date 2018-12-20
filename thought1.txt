@@ -1,3 +1,5 @@
+// Rainbow and unicorn mixture
+
 Violet
 Indigo
 Blue  # blue is the color of the sky
@@ -5,4 +7,6 @@ Green
 Yellow
 Orange
 Red
+Unicorn
+Unicorn
 #These are the colors of rainbow  
