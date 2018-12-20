@@ -10,5 +10,8 @@ Orange
 Red
 Unicorn
 Unicorn
+lovely day
+eating sweets
+learning git
 #These are the colors of rainbow  
 hi this is information of git and github.
